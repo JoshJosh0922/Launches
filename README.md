@@ -1,37 +1,11 @@
-# Nuxt 3 / Vuetify / Graphql / Pinia Starter
+## Features
 
-This template incorporates the utilization of Nuxt3, Vuetify, GraphQL, and Pinia to create a robust foundation
+### 1. View Recent and Past Rocket Launches
+Users can easily view both recent and past rocket launches, giving them access to up-to-date mission details and historical data.
 
-The source directory was repositioned to './client' to optimize project structure and facilitate easier integration with other backend frameworks if required.
+### 2. Search Functionality
+A search feature is included to allow users to find their favorite rocket launch missions in outer space, making it easier to access specific information.
 
-### To learn more, you can check out:
+### 3. Pagination
+To improve the user experience, pagination is implemented, enabling users to efficiently navigate through a large number of rocket launch missions without feeling overwhelmed.
 
--[Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
-
--[Vuetify 3 documentation](https://next.vuetifyjs.com/)
-
--[GraphQL documentation](https://graphql.org/)
-
--[Pinia documentation](https://pinia.vuejs.org/)
-
-## Linters
-
-The template has been pre-configured with state-of-the-art linters like eslint, stylelint, prettier, and commitizen to bolster code legibility and standardization
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-pnpm dev
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
